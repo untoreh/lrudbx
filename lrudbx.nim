@@ -1,6 +1,5 @@
 import nimdbx
 import nimdbx / [CRUD, Cursor, Collatable]
-import strformat
 import tables
 import macros
 import sugar
